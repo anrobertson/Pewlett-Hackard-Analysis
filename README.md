@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
  
 ## Overview of the analysis
-For this challange, I am helping Pewlett- Hackard prepare for the upcoming "silver tsunami." Within the next few years, there will be a large number of employees retiring at a fast rate and the company wants to be prepared for this massive shift. Using the ERD attached below, we created new tables that helped us find these results.
+I am helping Pewlett- Hackard prepare for the upcoming "silver tsunami." Within the next few years, there will be a large number of employees retiring at a fast rate and the company wants to be prepared for this massive shift. Using the ERD attached below, we created new tables that helped us find these results.
 
 ![](Resources/EmployeeDB.png)
 
